@@ -1,4 +1,3 @@
-0x00 AirBnB clone | The Console
 # The AirBnB Clone Project
 ![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
 
@@ -167,8 +166,4 @@ The recognizable commands by the interpreter are the following:
 | **-----** | **-----** |
 | **count** | Retrieve the number of instances of a class.  |
 | **Usage** | **<class name\>.count()** |
-
-# Author
-
-Chris Sammy
 
